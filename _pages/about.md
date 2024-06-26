@@ -11,35 +11,24 @@ I am a master student from Zhejiang University, majoring in Energy Engineering. 
 
 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## Education Background
+* 2022.09 - now, Master, Energy Engineering, Zhejiang University
+* 2018.09 - 2022.06, Bachelor, New Energy Science and Engineering, Zhejiang University
+## Internship
+* 2023.11 - 2024.01, Xi'an Jiaotong University, medical image processing with deep learning
+* 2022.08 - 2023.06, Huzhou Institute of Zhejiang Univeristy, holographic image processing and particle tracking
+## Awards
+* 2023.11, Suzhou Yucai Scholarship
+* 2022.06, Outstanding Graduate of Zhejiang Province
+* 2022.06, Outstanding Graduate of Zhejiang University
+* 2021.12, Secondary Scholarship of Zhejiang University
+* 2020.12, Secondary Scholarship of Zhejiang University
+* 2020.12, Scholarship of Zhejiang Province
+* 2019.12, Secondary Scholarship of Zhejiang University
+## Publications
+* Pang, Z., **Zhang, H.**, Wang, Y., Zhang, L., Wu, Y. and Wu, X., 2021. Recognition of multiscale dense gel filament-droplet field in digital holography with Mo-U-net. Frontiers in Physics, 9, p.742296.
+* **Zhang, H.**, Wang, Y., Wang, L., Pang, Z., Zhang, L., Lian, C., Wu, Y. and Wu, X., 2023. BU-net: Holographic image segmentation of multi-scale dense particle field with noisy training dataset. Advanced Powder Technology, 34(11), p.104201.
+* Wang, Y., **Zhang, H. (co-first author)**, Zhuo, Z., Shen, B., Wu, S., Ao, W., Chen, D., Wu, Y. and Wu, X., 2024. Aluminum droplet, oxide cap and flame segmentation in burning Al/AP propellants by combining YOLOv7 and two-stage cluster. Measurement, p.114264.
+* Wang, L., Li, T., Zhao, Y., **Zhang, H.**, Wu, Y., Song, G., Liu, T. and Wu, X., 2023. 65 kHz picosecond digital off-axis holographic imaging of 3D droplet trajectory in a kerosene swirl spray flame. Optics and Lasers in Engineering, 160, p.107236.
+* Zhao, Y., Wang, L., **Zhang, H.**, Wang, Y., Wu, Y., Wu, X., Wang, G., Song, G., Liu, T. and Zhao, T., 2024. Dual-camera off-axis holographic particle tracking velocimetry: Development and application to air-blast swirl spray measurement. Optics and Lasers in Engineering, 178, p.108237.
+* **Zhang, H.**, Wang, B., Zhang, L., Zhao, Y., Wang, Y., Feng, J., Ao, W., Wang, G., Wu, Y. and Wu, X., Adaptive In-Focus Particle Detection and Segmentation in Holographic 3d Image with Mechanism-Guided Machine Learning. Optics and Lasers in Engineering, **Accepted**
