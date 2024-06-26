@@ -8,9 +8,6 @@ redirect_from:
 ---
 # About me
 I am a second year master student from Zhejiang University, majoring in Energy Engineering. My research interests like industrial image processing including holographic images and microscopic images via deep learning or other techniques. You can find my CV here: [Hang Zhang's Curriculum Vitae](../assets/cv.pdf).
-
-
-
 ## Education Background
 * 2022.09 - now, Master, Energy Engineering, Zhejiang University
 * 2018.09 - 2022.06, Bachelor, New Energy Science and Engineering, Zhejiang University
