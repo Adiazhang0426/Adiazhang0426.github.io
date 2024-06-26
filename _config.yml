@@ -21,7 +21,7 @@ repository               : "Adiazhang0426/adiazhang0426.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myimage.jpg"
+  avatar           : "myimage.png"
   name             : "Hang Zhang"
   # pronouns         : # example: "she/her"  
   bio              : "Master student for image processing"
