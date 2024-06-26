@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Hang Zhang's homepage"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
