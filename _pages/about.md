@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 # About me
-I am a master student from Zhejiang University, majoring in Energy Engineering. My research interests include industrial image processing including holographic images and microscopic images via deep learning or other techniques.
+I am a master student from Zhejiang University, majoring in Energy Engineering. My research interests like industrial image processing including holographic images and microscopic images via deep learning or other techniques.
 
 
 
